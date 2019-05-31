@@ -1,0 +1,1 @@
+sudo mount -t ntfs -o rw,auto,nobrowse /dev/disk2s1 /Volumes/SeagateSilverBackup
